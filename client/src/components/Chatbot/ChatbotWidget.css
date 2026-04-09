@@ -1,0 +1,7 @@
+/* Minimal CSS - no animations for low-end devices */
+.chatbot-container {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 1000;
+}
